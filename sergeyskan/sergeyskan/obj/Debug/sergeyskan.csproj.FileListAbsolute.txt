@@ -1,0 +1,9 @@
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\bin\Debug\sergeyskan.exe
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\bin\Debug\sergeyskan.pdb
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\obj\Debug\sergeyskan.csprojAssemblyReference.cache
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\obj\Debug\sergeyskan.Properties.Resources.resources
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\obj\Debug\sergeyskan.csproj.GenerateResource.cache
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\obj\Debug\sergeyskan.csproj.CoreCompileInputs.cache
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\obj\Debug\sergeyskan.exe
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\obj\Debug\sergeyskan.pdb
+C:\Users\yes\source\repos\sergeyskan\sergeyskan\obj\Debug\sergeyskan.form.resources
